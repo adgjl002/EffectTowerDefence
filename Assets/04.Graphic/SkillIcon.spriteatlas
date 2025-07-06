@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SkillIcon
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 68fc981da96abf74bae5ef740d6ce569, type: 3}
+    - {fileID: 2800000, guid: e5929db350a73ca42ac3cc93ee7a48d9, type: 3}
+    - {fileID: 2800000, guid: 781e984d1a5bb444a90c8f0ac7a5e8b4, type: 3}
+    - {fileID: 2800000, guid: 55fc75de1ba92fe4fae59c3752421b3c, type: 3}
+    - {fileID: 2800000, guid: 56ca43e509045a74e82476b2661c31dc, type: 3}
+    - {fileID: 2800000, guid: 6a2136a50dbcdbb458f216aec29eeae4, type: 3}
+    - {fileID: 2800000, guid: df88bad2a126371448c3976d19f46d63, type: 3}
+    - {fileID: 2800000, guid: ee7c2b6a9e73ab84ab0e4cc4e969f78d, type: 3}
+    - {fileID: 2800000, guid: 0a36d60053195d54aa52d0b8d5952a93, type: 3}
+    - {fileID: 2800000, guid: cea21bd4f6b3efc4b8fc21706f3bf493, type: 3}
+    - {fileID: 2800000, guid: 049aae2d8f7674f47b7210cfb5d9d4cb, type: 3}
+    - {fileID: 2800000, guid: 0dc4925facb06d44faccbc714c632fba, type: 3}
+    - {fileID: 2800000, guid: dc8e85111ea00fc449d5e361b2af3339, type: 3}
+    - {fileID: 2800000, guid: 1694e3ec2dd737d44b1b25e79a5ed645, type: 3}
+    - {fileID: 2800000, guid: 229e08422ff2adb4e893b24036f2f18c, type: 3}
+    - {fileID: 2800000, guid: 5a403901177e01d49a9fc59a8cd734ad, type: 3}
+    - {fileID: 2800000, guid: 3e610091e32152243978524df2f21f14, type: 3}
+    - {fileID: 2800000, guid: 4860499d41d0d454a878ff6eb9936062, type: 3}
+    - {fileID: 2800000, guid: 2a3b0bf6bacb2f6418dfa6f1220db31a, type: 3}
+    - {fileID: 2800000, guid: 24994a5c3c601e9428c1aef6d9f98028, type: 3}
+    - {fileID: 2800000, guid: a7065157abfe4574fbb33f33c7515b49, type: 3}
+    - {fileID: 2800000, guid: d600387202430b34da808ae2ec368ab9, type: 3}
+    - {fileID: 2800000, guid: dbff0ac73df171d4e9334c61e119c254, type: 3}
+    - {fileID: 2800000, guid: b98910472fc011c4ca3e12f1ee4974a8, type: 3}
+    - {fileID: 2800000, guid: 66139bf245cfb244ea43f12fe4310bc1, type: 3}
+    totalSpriteSurfaceArea: 1638400
+    bindAsDefault: 1
+    storedHash:
+      serializedVersion: 2
+      Hash: 1073e28eaf99a194963ee0dc6708a964
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 0a36d60053195d54aa52d0b8d5952a93, type: 3}
+  - {fileID: 21300000, guid: 5a403901177e01d49a9fc59a8cd734ad, type: 3}
+  - {fileID: 21300000, guid: dc8e85111ea00fc449d5e361b2af3339, type: 3}
+  - {fileID: 21300000, guid: 3e610091e32152243978524df2f21f14, type: 3}
+  - {fileID: 21300000, guid: 229e08422ff2adb4e893b24036f2f18c, type: 3}
+  - {fileID: 21300000, guid: d600387202430b34da808ae2ec368ab9, type: 3}
+  - {fileID: 21300000, guid: df88bad2a126371448c3976d19f46d63, type: 3}
+  - {fileID: 21300000, guid: 66139bf245cfb244ea43f12fe4310bc1, type: 3}
+  - {fileID: 21300000, guid: e5929db350a73ca42ac3cc93ee7a48d9, type: 3}
+  - {fileID: 21300000, guid: cea21bd4f6b3efc4b8fc21706f3bf493, type: 3}
+  - {fileID: 21300000, guid: 6a2136a50dbcdbb458f216aec29eeae4, type: 3}
+  - {fileID: 21300000, guid: 56ca43e509045a74e82476b2661c31dc, type: 3}
+  - {fileID: 21300000, guid: 2a3b0bf6bacb2f6418dfa6f1220db31a, type: 3}
+  - {fileID: 21300000, guid: b98910472fc011c4ca3e12f1ee4974a8, type: 3}
+  - {fileID: 21300000, guid: a7065157abfe4574fbb33f33c7515b49, type: 3}
+  - {fileID: 21300000, guid: dbff0ac73df171d4e9334c61e119c254, type: 3}
+  - {fileID: 21300000, guid: ee7c2b6a9e73ab84ab0e4cc4e969f78d, type: 3}
+  - {fileID: 21300000, guid: 24994a5c3c601e9428c1aef6d9f98028, type: 3}
+  - {fileID: 21300000, guid: 1694e3ec2dd737d44b1b25e79a5ed645, type: 3}
+  - {fileID: 21300000, guid: 68fc981da96abf74bae5ef740d6ce569, type: 3}
+  - {fileID: 21300000, guid: 049aae2d8f7674f47b7210cfb5d9d4cb, type: 3}
+  - {fileID: 21300000, guid: 781e984d1a5bb444a90c8f0ac7a5e8b4, type: 3}
+  - {fileID: 21300000, guid: 4860499d41d0d454a878ff6eb9936062, type: 3}
+  - {fileID: 21300000, guid: 55fc75de1ba92fe4fae59c3752421b3c, type: 3}
+  - {fileID: 21300000, guid: 0dc4925facb06d44faccbc714c632fba, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Icon_DoubleShot
+  - Icon_Laser
+  - Icon_Freezing
+  - Icon_MultiShot
+  - Icon_Insight
+  - Icon_TD-3
+  - Icon_Crush
+  - Icon_Transition
+  - Icon_Ability_AttackRange
+  - Icon_ElectricShock
+  - Icon_Berserker
+  - Icon_Ability_CriticalPerc
+  - Icon_Poison
+  - Icon_TD-5
+  - Icon_TD-2
+  - Icon_TD-4
+  - Icon_DeathBlow
+  - Icon_TD-1
+  - Icon_GrowingPains
+  - Icon_Ability_AttackDamage
+  - Icon_Explosion
+  - Icon_Ability_AttackSpeed
+  - Icon_Penetrate
+  - Icon_Ability_CriticalDamage
+  - Icon_FairWinds
+  m_Tag: SkillIcon
+  m_IsVariant: 0

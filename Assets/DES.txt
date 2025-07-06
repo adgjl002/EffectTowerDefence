@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Data>
+  <Info TextNo="Skill_TAE_1_1_0" Korean="관통" English="Penetrate"/>
+</Data>
